@@ -11,7 +11,7 @@
 
 ## Commands
 - ``` $ maked DIRECTORY_NAME ``` Creates a directory with the given name.
-- ``` $ makef FILE_NAME ``` Creates a directory with the given name.
+- ``` $ makef FILE_NAME ``` Creates a file with the given name.
 - ``` $ write FILE_NAME SOME_TEXT endwriting ``` Writes the given text to the given file if exists.
 - ``` $ open FILE_NAME ``` Opens the given file and prints its content.
 - ``` $ list ``` Shows the list of files of the current directory.
