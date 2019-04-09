@@ -5,14 +5,8 @@
 
 ## Install
 
-1. ```console
-$ git clone https://github.com/AmirDadkhah/Semi-Shell.git
-```
-2. ```console
-$ cd Semi-Shell'
-```
-3. ```console
-$ bash SemiShell.sh
-```
+1. ```console $ git clone https://github.com/AmirDadkhah/Semi-Shell.git ```
+2. ```console $ cd Semi-Shell ```
+3. ```console $ bash SemiShell.sh ```
 
 ## Commands
